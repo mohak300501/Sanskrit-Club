@@ -64,8 +64,9 @@ h1 {
   font-size: 2em;
 }
 mark {
-  color: #000;
-  background: #ff0;
+  color: #0000FF;
+  background-color: #0000A0;
+  font-family:"BankGothic Md BT";
 }
 small {
   font-size: 80%;
@@ -1085,8 +1086,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
-  background-color: #fff;
+  color: #0000A0;
+  background-color: #ADD8E6;
 }
 input,
 button,
