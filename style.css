@@ -1,9 +1,9 @@
-/*mark{
+mark{
 	color: #0000FF;
 	background-color: #0000A0;
-	font-family:"BankGothic Md BT";
+	font-family:"Candara", sans-serif;
 }
-body{
+/*body{
 	color: #0000A0;
 	background-color: #ADD8E6;
 	
@@ -11,9 +11,15 @@ body{
 a{
 	color:red;
 }
-td{
-	/*border: 3px solid red;*/
+/*td{
+	border: 3px solid red;
 	font-size:175%;
 	font-family:"Agency FB";
 	color:red;
+}*/
+footer {
+	text-align: center;
+	padding: 3px;
+	background-color: #0000A0;
+	color: #0000FF;
 }
